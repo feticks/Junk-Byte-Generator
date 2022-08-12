@@ -1,4 +1,4 @@
-# Junk-Byte-Generator
+# Junk Byte Generator
 
 > Simplistic junk byte generator that generates X amount of bytes and then writes a new file with the combined total.
 
