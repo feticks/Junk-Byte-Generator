@@ -2,7 +2,7 @@
 
 > Simplistic junk byte generator that generates X amount of bytes and then writes a new file with the combined total.
 
-```ruby
+```
 public static int Build(OpenFileDialog Dialog, int amount) {
     var bytes = File.ReadAllBytes(Dialog.FileName);
     var combined = ByteCombine(bytes, Junk(amount));
